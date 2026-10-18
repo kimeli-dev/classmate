@@ -1,0 +1,7 @@
+# Runtime dependencies (tested on Windows 11 26200, Python 3.13.14)
+PySide6-Essentials==6.12.0
+shiboken6==6.12.0
+# Voice replies: microphone recording and playback to a chosen device (bundles PortAudio on Windows)
+sounddevice==0.5.1
+cffi==1.17.1
+pycparser==2.22

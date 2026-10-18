@@ -1,0 +1,8 @@
+# Copy to %LOCALAPPDATA%\Sessionly\config.toml to override defaults.
+# Never put API keys, passwords or meeting links in this file.
+
+# Where the database and logs live. Defaults to %LOCALAPPDATA%\Sessionly.
+# data_dir = "D:/SessionlyData"
+
+# DEBUG, INFO, WARNING or ERROR. URLs and e-mail addresses are always redacted.
+log_level = "INFO"

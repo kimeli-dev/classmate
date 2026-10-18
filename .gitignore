@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# Local data - never commit
+*.db
+*.db-wal
+*.db-shm
+*.db.bak*
+logs/
+config.toml
+.env
+*.wav
+*.mp3
+
+# Editors
+.vscode/
+.idea/
